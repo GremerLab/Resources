@@ -1,5 +1,6 @@
 # Resources
-Wiki pages to help us find and organize resources and information in the Gremer Lab
+Wiki pages to help us find and organize resources and information in the Gremer Lab.
+
 Do NOT add content to this repository other than to the wiki.
 
 Click on the wiki tab above, or [here](https://github.com/GremerLab/Resources/wiki/Resources) to be taken to the wiki.
